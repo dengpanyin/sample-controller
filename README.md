@@ -1,4 +1,8 @@
 # sample-controller
+https://tangxusc.github.io/blog/2019/05/code-generator%E4%BD%BF%E7%94%A8/
+
+
+
 
 This repository implements a simple controller for watching Foo resources as
 defined with a CustomResourceDefinition (CRD).
